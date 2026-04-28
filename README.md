@@ -35,10 +35,14 @@ The application performs basic arithmetic operations with a clean and user-frien
 
 ## 📂 Project Structure
 
+```
+
 Calculator-App
 │── index.html
 │── calculator.css
 │── README.md
+
+```
 
 ---
 
